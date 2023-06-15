@@ -1,4 +1,4 @@
-##Example script for created two groups of simulated data, running a t-test, and visualizing
+##Example script for creating two groups of simulated data, running a t-test, and visualizing
 #Create two groups of data with different means
 set.seed(1234)
 group1 <- rnorm(1000, mean=2, sd=10)
